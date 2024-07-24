@@ -1,0 +1,13 @@
+{
+    "patientId": 2,
+    "fromHospitalId": 2,
+    "toHospitalId": 1,
+    "fromDepartmentId": 9,
+    "toDepartmentId": 1,
+    "fromDoctorId": 2,
+    "toDoctorId": 1,
+    "transferDate": "2024-08-01T10:15:30",
+    "status": "Sent",
+    "reportFile": "base64EncodedFileContent",
+    "reason": "specialized treatment"
+}
