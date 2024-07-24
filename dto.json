@@ -10,4 +10,5 @@
     "status": "Sent",
     "reportFile": "base64EncodedFileContent",
     "reason": "specialized treatment"
+    
 }
